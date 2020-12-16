@@ -5,8 +5,8 @@ Petful
 Richard Folea
 
 ## Links
-Live site: tbd  
-Server: tbd  
+Live site: https://petful-client-ivory.vercel.app  
+Server: https://desolate-wave-06722.herokuapp.com  
 Client Repo: https://github.com/Aelof3/petful-client  
 Server Repo: https://github.com/Aelof3/petful-server  
 
